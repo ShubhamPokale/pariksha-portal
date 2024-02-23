@@ -1,0 +1,60 @@
+.tableAddStudent {
+    width: 700px;
+    margin:20px 0 0 80px;
+    padding: 20px;
+    background-color: #d3d1d1;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: -10px 10px 1px rgba(0, 0, 0, 0.1);
+  }
+  
+  .tableAddStudent label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight:700;
+    font-size: 17px;
+  }
+  
+  .tableAddStudent input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+    border-radius: 20px;
+  }
+  
+  .tableAddStudent button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .tableAddStudent   button:hover {
+    background-color: #0056b3;
+  }
+  
+  .tableAddStudent  h4 {
+    margin-top: 16px;
+    font-size: 16px;
+    color: #333;
+  }
+  
+  .tableAddStudent .FileAreaOfAddStudent {
+    margin-top: 16px;
+  }
+  .successMessage{
+    color: green;
+    font-size: 17px;
+    font-weight: 700;
+  }
+.errorMessage{
+  color: rgb(253, 7, 7);
+  font-size: 17px;
+  font-weight: 700;
+}
+  .FileAreaOfAddStudent{
+    margin: 10px;
+  }
